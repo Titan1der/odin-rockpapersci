@@ -45,6 +45,7 @@ let decideWinner = (a, b) => {
 function playGame() {
     let playerWins = 0 
     let comWins = 0
+    // Changes here
 
     for (let i = 0; i < 3; i++) {
 
